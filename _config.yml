@@ -1,2 +1,5 @@
 auto: true
 permalink: pretty
+sass:
+  syntax: sass        # scss|sass
+  style:  compressed  # nested|expanded|compact|compressed
