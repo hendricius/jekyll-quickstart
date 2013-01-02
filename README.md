@@ -3,8 +3,8 @@ A sample project to getting started with jekyll with little configuration
 required.
 
 ## Comes with plugins:
-* ['Slim templates'](http://slim-lang.com/)
-* ['Sass'](http://sass-lang.com/)
+* [Slim templates](http://slim-lang.com/)
+* [Sass](http://sass-lang.com/)
 * Twitter Bootstrap
 * Font Awesome
 * jQuery
