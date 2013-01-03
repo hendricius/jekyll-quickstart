@@ -3,3 +3,14 @@ permalink: pretty
 sass:
   syntax: sass        # scss|sass
   style:  compressed  # nested|expanded|compact|compressed
+# I18n your jekyl
+locale: "de"
+# 1. Set the locale you want to use.
+# 2. Remove hardcoded strings, replace with: {{ site.locales[site.locale].title }}
+# 3. Use YAML format and pase the strings below.
+# 4. To generate the static files for a different locale, stop jekyll, change the locale variable in this file, then restart.
+locales:
+  en:
+    title: "example"
+  de:
+    title: "example"

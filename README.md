@@ -1,6 +1,5 @@
 # Jekyll quickstart
-A sample project to getting started with jekyll with little configuration
-required.
+A sample project to getting started with jekyll with little configuration required.
 
 ## Comes with plugins:
 * [Slim templates](http://slim-lang.com/)
@@ -9,6 +8,7 @@ required.
 * Font Awesome
 * jQuery
 * underscore
+* I18n your jekyll. See _config.yml
 
 ## Uses includes to seperate the layout:
 * _includes/ contain header/headinclude and footer files.
