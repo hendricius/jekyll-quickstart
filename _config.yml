@@ -1,4 +1,3 @@
-auto: true
 permalink: pretty
 exclude: [Gemfile, Gemfile.lock, deploy.sh, LICENSE, README.md]
 sass:
@@ -6,6 +5,7 @@ sass:
   style:  compressed  # nested|expanded|compact|compressed
 # I18n your jekyl
 locale: "de"
+
 # 1. Set the locale you want to use.
 # 2. Remove hardcoded strings, replace with: {{ site.locales[site.locale].title }}
 # 3. Use YAML format and pase the strings below.
